@@ -44,6 +44,8 @@ The project is divided into three main subtasks, each implemented in a separate 
     *   Compares **Baseline Classification** (Standard XLM-R) vs. **Contrastive Joint Learning** (Custom Architecture with SupCon Loss).
     *   Evaluates performance on both Standard Multilingual Data and Oversampled Data.
 
+Full report with all technical details- https://drive.google.com/file/d/1eeIZmG5MG8ejb0bESX20OjxgF7QsX0yH/view?usp=sharing
+
 ## Installation & Requirements
 
 To run these notebooks, you will need a Python environment with the following libraries:
